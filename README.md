@@ -1,5 +1,5 @@
 Mosscovi
-MOdélisation, Simulation et Synthèse d'un COdec VIdeo.
+MOdélisation, Simulation et Synthèse d'un COdec VIdéo.
 
 
 Objectifs du projet

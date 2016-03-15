@@ -1,4 +1,6 @@
-#Mosscovi
+#ENSTA
+
+Génie Logiciel
 
 MOdélisation, Simulation et Synthèse d'un COdec VIdéo.
 
